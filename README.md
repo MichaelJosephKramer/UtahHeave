@@ -6,9 +6,6 @@
 
 - Michael Joseph Kramer
 - Tim Wingfield
-
-### Lesser Elder
-
 - Philip Jordan
 
 ### All-Time Records
