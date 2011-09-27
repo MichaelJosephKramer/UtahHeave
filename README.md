@@ -24,13 +24,14 @@ Rule 2: A Utah Heave game will consist of two rounds of play. Total combined sco
 the two rounds determines the game winner.
 
 Rule 3: All point value shots must be attempted per round.
+
 1. The point value shots may be attempted in any order.
 2. The five point shot must be taken last in the round.
 
 Rule 4: Any throw that hits the table disqualifies the player for the game.
 
-Rule 5: Heave Off - In the event of a tie following two rounds of play, there will be a
-Heave Off.
+Rule 5: Heave Off - In the event of a tie for first place following two rounds of play, there will be a Heave Off.
+
 1. Heave Off starts with each competitor taking a 5 point shot. If there is no
     winner, then each competitor will take a 5 points shot and a 4 point shot. If there
     is no winner then the shot progression continues to include the 3 point shot, and
