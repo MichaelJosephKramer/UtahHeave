@@ -10,5 +10,5 @@
 
 ### All-Time Records
 
-- Single Match Score: 14 - Philip Jordan
-- Single Round Score: 9  - Michael Joseph Kramer
+- Single Match Score: 14 - Philip Jordan (9/21/2011)
+- Single Round Score: 9  - Michael Joseph Kramer (9/27/2011)
