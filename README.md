@@ -11,4 +11,4 @@
 ### All-Time Records
 
 - Single Match Score: 14 - Philip Jordan (9/21/2011)
-- Single Round Score: 9  - Michael Joseph Kramer (9/27/2011)
+- Single Round Score: 10 - Mike Eaton (9/27/2011)
