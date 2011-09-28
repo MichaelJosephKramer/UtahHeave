@@ -18,8 +18,8 @@
 
 ### All-Time Records
 
-- Single Match Score: 14 - Philip Jordan (9/21/2011)
-- Single Round Score: 10 - Mike Eaton (9/27/2011)
+- Single Match Score: 18 - Tom Kruk (9/28/2011)
+- Single Round Score: 15 - Tom Kruk (9/28/2011)
 
 ## Rules
 
