@@ -8,6 +8,10 @@
 - Tim Wingfield
 - Philip Jordan
 
+### President of the Players Association (UHPA)
+
+- Michael Eaton
+
 ### All-Time Records
 
 - Single Match Score: 14 - Philip Jordan (9/21/2011)
