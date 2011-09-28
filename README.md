@@ -15,7 +15,7 @@
 
 ## Rules
 
-![Utah Heave Arena](./UtahHeave/images/UtahHeave.jpg "Utah Heave Arena")
+![Utah Heave Arena](http://github.com/MichaelJosephKramer/UtahHeave/raw/master/images/UtahHeave.jpg "Utah Heave Arena")
 
 The first rule of Utah Heave is you DO NOT TALK ABOUT UTAH HEAVE! (Tweeting about it is
 acceptable.)
