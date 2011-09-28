@@ -1,12 +1,16 @@
 # Utah Heave
 
-## Utah Heave is the best match in the history of games.
+## Utah Heave is the best game in the history of games.
 
 ### Council of Elders
 
 - Michael Joseph Kramer
 - Tim Wingfield
 - Philip Jordan
+
+### Elder of Europe (voting member)
+
+- Tomasz Kruk
 
 ### President of the Players Association (UHPA)
 
@@ -52,3 +56,7 @@ resulting in a total match score of two, that player will have achieved The Kauf
 **The Eaton:** Should a player score only their one point throw in one round, and
 score zero points in the other round, thus resulting in a total match score of one, that
 player will have achieved The Eaton.
+
+**The Kramakrukacycle:** Should a player throw for each point value across two rounds, they will have accomplished the Kramakrukacycle. (First done by Michael Kramer, 28 Sept 2011)
+
+**The Natural Kramakrukacycle:** Should a player throw for each point value in a single round, that player will have accomplished the Natural Kramakrukacycle. (First done by Tom Kruk, 28 Sept 2011)
