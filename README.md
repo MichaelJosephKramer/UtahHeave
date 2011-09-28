@@ -1,12 +1,16 @@
 # Utah Heave
 
-## Utah Heave is the best match in the history of games.
+## Utah Heave is the best game in the history of games.
 
 ### Council of Elders
 
 - Michael Joseph Kramer
 - Tim Wingfield
 - Philip Jordan
+
+### Elder of Europe (currently non-voting, voting rights being petitioned)
+
+- Tomasz Kruk
 
 ### President of the Players Association (UHPA)
 
