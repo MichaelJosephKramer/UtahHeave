@@ -6,6 +6,8 @@
 
 - Michael Joseph Kramer
 - Tim Wingfield
+
+#### Lesser Elder
 - Philip Jordan
 
 ### Elder of Europe (voting member)
